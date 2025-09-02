@@ -1,4 +1,4 @@
-This is a Kotlin Multiplatform project targeting Android, iOS.
+This is a Compose Multiplatform project targeting Android and iOS.
 
 Flow:
 (screens + viewModels) -> repository -> (storage + network)
