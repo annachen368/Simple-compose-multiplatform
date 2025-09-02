@@ -1,6 +1,12 @@
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
-<img width="353" height="782" alt="image" src="https://github.com/user-attachments/assets/8e192151-78da-4157-b38d-5d70423449cc" />
+Flow:
+(screens + viewModels) -> repository -> (storage + network)
 
-<img width="353" height="782" alt="image" src="https://github.com/user-attachments/assets/b22ff77f-29b3-4ae7-9445-5fd172b87ca0" />
+Dependencies:
+Ktor, Koin, and Coil.
+
+<img width="353" height="760" alt="image" src="https://github.com/user-attachments/assets/8e192151-78da-4157-b38d-5d70423449cc" />
+
+<img width="353" height="760" alt="image" src="https://github.com/user-attachments/assets/b22ff77f-29b3-4ae7-9445-5fd172b87ca0" />
 
