@@ -65,7 +65,7 @@ kotlin {
             implementation(libs.koin.compose.viewmodel.navigation)
 
             implementation(libs.coil.compose)
-            implementation(libs.coil.network.okhttp)
+            implementation(libs.coil.network.ktor)
         }
         commonTest.dependencies {
             implementation(kotlin("test"))
