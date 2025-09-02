@@ -1,16 +1,12 @@
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
-* [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - [commonMain](./composeApp/src/commonMain/kotlin) is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    the [iosMain](./composeApp/src/iosMain/kotlin) folder would be the right place for such calls.
-    Similarly, if you want to edit the Desktop (JVM) specific part, the [jvmMain](./composeApp/src/jvmMain/kotlin)
-    folder is the appropriate location.
+Flow:
+(screens + viewModels) -> repository -> (storage + network)
 
-* [/iosApp](./iosApp/iosApp) contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform,
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+Dependencies:
+Ktor, Koin, and Coil.
 
+<img width="353" height="760" alt="image" src="https://github.com/user-attachments/assets/8e192151-78da-4157-b38d-5d70423449cc" />
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+<img width="353" height="760" alt="image" src="https://github.com/user-attachments/assets/b22ff77f-29b3-4ae7-9445-5fd172b87ca0" />
+
