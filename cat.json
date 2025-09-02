@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Luna",
+    "gender": "Female",
+    "age": 2,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/200/200"
+  },
+  {
+    "id": 2,
+    "name": "Oliver",
+    "gender": "Male",
+    "age": 3,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/201/200"
+  },
+  {
+    "id": 3,
+    "name": "Milo",
+    "gender": "Male",
+    "age": 1,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/202/200"
+  },
+  {
+    "id": 4,
+    "name": "Chloe",
+    "gender": "Female",
+    "age": 4,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/203/200"
+  },
+  {
+    "id": 5,
+    "name": "Leo",
+    "gender": "Male",
+    "age": 5,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/204/200"
+  },
+  {
+    "id": 6,
+    "name": "Daisy",
+    "gender": "Female",
+    "age": 2,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/205/200"
+  },
+  {
+    "id": 7,
+    "name": "Simba",
+    "gender": "Male",
+    "age": 3,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/206/200"
+  },
+  {
+    "id": 8,
+    "name": "Cleo",
+    "gender": "Female",
+    "age": 1,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/207/200"
+  },
+  {
+    "id": 9,
+    "name": "Max",
+    "gender": "Male",
+    "age": 6,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/208/200"
+  },
+  {
+    "id": 10,
+    "name": "Bella",
+    "gender": "Female",
+    "age": 3,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/209/200"
+  },
+  {
+    "id": 11,
+    "name": "Charlie",
+    "gender": "Male",
+    "age": 2,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/210/200"
+  },
+  {
+    "id": 12,
+    "name": "Nala",
+    "gender": "Female",
+    "age": 5,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/211/200"
+  },
+  {
+    "id": 13,
+    "name": "Tiger",
+    "gender": "Male",
+    "age": 4,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/212/200"
+  },
+  {
+    "id": 14,
+    "name": "Willow",
+    "gender": "Female",
+    "age": 3,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/213/200"
+  },
+  {
+    "id": 15,
+    "name": "Oscar",
+    "gender": "Male",
+    "age": 1,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/214/200"
+  },
+  {
+    "id": 16,
+    "name": "Misty",
+    "gender": "Female",
+    "age": 2,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/215/200"
+  },
+  {
+    "id": 17,
+    "name": "Rocky",
+    "gender": "Male",
+    "age": 7,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/216/200"
+  },
+  {
+    "id": 18,
+    "name": "Lily",
+    "gender": "Female",
+    "age": 3,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/217/200"
+  },
+  {
+    "id": 19,
+    "name": "Simone",
+    "gender": "Female",
+    "age": 4,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/218/200"
+  },
+  {
+    "id": 20,
+    "name": "Finn",
+    "gender": "Male",
+    "age": 2,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/219/200"
+  },
+  {
+    "id": 21,
+    "name": "Zoe",
+    "gender": "Female",
+    "age": 1,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/220/200"
+  },
+  {
+    "id": 22,
+    "name": "Jasper",
+    "gender": "Male",
+    "age": 6,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/221/200"
+  },
+  {
+    "id": 23,
+    "name": "Ruby",
+    "gender": "Female",
+    "age": 2,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/222/200"
+  },
+  {
+    "id": 24,
+    "name": "George",
+    "gender": "Male",
+    "age": 5,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/223/200"
+  },
+  {
+    "id": 25,
+    "name": "Hazel",
+    "gender": "Female",
+    "age": 3,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/224/200"
+  },
+  {
+    "id": 26,
+    "name": "Felix",
+    "gender": "Male",
+    "age": 2,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/225/200"
+  },
+  {
+    "id": 27,
+    "name": "Lola",
+    "gender": "Female",
+    "age": 1,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/226/200"
+  },
+  {
+    "id": 28,
+    "name": "Theo",
+    "gender": "Male",
+    "age": 3,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/227/200"
+  },
+  {
+    "id": 29,
+    "name": "Mochi",
+    "gender": "Female",
+    "age": 4,
+    "adopted": true,
+    "imageUrl": "https://placecats.com/228/200"
+  },
+  {
+    "id": 30,
+    "name": "Shadow",
+    "gender": "Male",
+    "age": 5,
+    "adopted": false,
+    "imageUrl": "https://placecats.com/229/200"
+  }
+]
